@@ -1,0 +1,17 @@
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.Form1.resources
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.csproj.GenerateResource.cache
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.AssemblyInfoInputs.cache
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.AssemblyInfo.cs
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.csproj.CoreCompileInputs.cache
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.Properties.Resources.resources
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\bin\Debug\net6.0-windows\CursorlockTest1.exe
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\bin\Debug\net6.0-windows\CursorlockTest1.deps.json
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\bin\Debug\net6.0-windows\CursorlockTest1.runtimeconfig.json
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\bin\Debug\net6.0-windows\CursorlockTest1.dll
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\bin\Debug\net6.0-windows\CursorlockTest1.pdb
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.dll
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\refint\CursorlockTest1.dll
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.pdb
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\CursorlockTest1.genruntimeconfig.cache
+C:\Users\Aplle\source\repos\CursorlockTest1\CursorlockTest1\obj\Debug\net6.0-windows\ref\CursorlockTest1.dll
